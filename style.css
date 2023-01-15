@@ -125,7 +125,10 @@ body {
 }
 
 .add__type {
-    width: 55px;
+    font-family: inherit;
+    font-size: small;
+    text-align: center;
+    width: 100px;
     border: 1px solid #e7e7e7;
     height: 44px;
     font-size: 18px;
